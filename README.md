@@ -1,4 +1,4 @@
-## Hi there, I'm Anton 👋
+## Hi there, I'm Tony 👋
 
 - 🔭 I’m currently working with computer networks
 - 🌱 I’m currently learning: computer networks, Linux and Web3
